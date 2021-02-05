@@ -1,19 +1,16 @@
-## 1. Hi I'm Fahad <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## 1. Hi I'm Sadhon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-I'm Mohammad Fahad a Software Developer and works at Team_CC. I Spend most of time coding outstanding projects.
+I'm Sadhon a Software Developer and works at a company in USA. I Spend most of time coding outstanding projects.
 
-:mailbox: Reach me out!
-
- [![Linkedin Badge](https://img.shields.io/badge/-Fahad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahadnsu5642/) [![Mail Badge](https://img.shields.io/badge/-@Fahad07-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/md.fahad07/) [![Mail Badge](https://img.shields.io/badge/-fahad.mojumder@northsouth.edu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fahad.mojumder@northsouth.edu)
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Team_CC** (Professional Cyber Security Platform).
+- 🔭 I’m currently working on  (Professional Cyber Security Platform).
 - 😄 computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas.
-- 📫 How to reach me: fahad.mojumder@northsouth.edu.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 📫 How to reach me: sadhon.tec@gmail.com
+- ⚡ Fun fact: I like to paly football,cricket and carrom.
 
 #### 1.0.1. Top Technologies
 
@@ -52,29 +49,8 @@ I'm Mohammad Fahad a Software Developer and works at Team_CC. I Spend most of ti
 <br />
 <br />
 
-#### 1.1.1. Bizness
-- :paperclip: [My Resume/CV](https://github.com/MohammadFahad07)
-
-
-#### 1.1.2. Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MohammadFahad07)
 
 
 
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 
-
-
-#### 1.1.5. Github Stats
-
-![Fahad's github stats](https://github-readme-stats.vercel.app/api?username=MohammadFahad07&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
