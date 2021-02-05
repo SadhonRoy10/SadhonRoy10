@@ -50,7 +50,32 @@ I'm Sadhon a Software Developer and works at a company in USA. I Spend most of t
 <br />
 
 
+#### 1.1.1. Bizness
+- :paperclip: [My Resume/CV](https://github.com/SadhonRoy10)
 
+
+#### 1.1.2. Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SadhonRoy10)
+
+
+
+
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+
+
+
+#### 1.1.5. Github Stats
+
+![Sadhon's github stats](https://github-readme-stats.vercel.app/api?username=SadhonRoy10&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
+
+
+[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
+[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
+[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
+[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
 
 
 
