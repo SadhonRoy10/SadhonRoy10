@@ -9,7 +9,7 @@ I'm Sadhon a Software Developer and works at a company in USA. I Spend most of t
 - 🔭 I’m currently working on  (Professional Cyber Security Platform).
 - 😄 computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas.
-- 📫 How to reach me: sadhon.tec@gmail.com
+- 📫 How to reach me: sadhon.tec@gmail.com.
 - ⚡ Fun fact: I like to paly football,cricket and carrom.
 
 #### 1.0.1. Top Technologies
@@ -20,7 +20,7 @@ I'm Sadhon a Software Developer and works at a company in USA. I Spend most of t
 
 
 
-### 1.1. Tutorials
+### 1.1. My Favourite Youtube channel.
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
